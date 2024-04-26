@@ -3,11 +3,17 @@ NYC Yellow Taxi data analysis using Big Data tools such as Hadoop Framework, Apa
 
 # Dataset for the Analysis:
 https://nyc-tlc-upgrad.s3.amazonaws.com/yellow_tripdata_2017-01.csv
+
 https://nyc-tlc-upgrad.s3.amazonaws.com/yellow_tripdata_2017-02.csv
+
 https://nyc-tlc-upgrad.s3.amazonaws.com/yellow_tripdata_2017-03.csv
+
 https://nyc-tlc-upgrad.s3.amazonaws.com/yellow_tripdata_2017-04.csv
+
 https://nyc-tlc-upgrad.s3.amazonaws.com/yellow_tripdata_2017-05.csv
+
 https://nyc-tlc-upgrad.s3.amazonaws.com/yellow_tripdata_2017-06.csv
+
 
 # Tasks:
 
